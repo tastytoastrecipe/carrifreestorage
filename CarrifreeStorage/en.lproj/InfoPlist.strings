@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  CarrifreeStorage
+
+  Created by plattics-kwon on 2021/09/06.
+  
+*/
+
+
+NSCalendarsUsageDescription = "쉬는날을 등록합니다";
+NSCameraUsageDescription = "촬영한 사진을 등록합니다";
+NSLocationWhenInUseUsageDescription = "고객들이 내 위치를 기반으로 서비스를 의뢰할 수 있습니다";
+NSPhotoLibraryUsageDescription = "앨범에서 선택한 사진을 등록합니다";

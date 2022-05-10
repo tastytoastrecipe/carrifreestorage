@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="RegDate" customModule="CarrifreeStorage" customModuleProvider="target">
+            <connections>
+                <outlet property="desc" destination="zOe-mK-jHD" id="wyn-Q2-xCE"/>
+                <outlet property="holiday" destination="gkb-YA-Eyz" id="BRw-nW-1oE"/>
+                <outlet property="title" destination="jVI-11-i6j" id="UQS-sC-7Vb"/>
+                <outletCollection property="days" destination="Rxe-tb-Uqg" collectionClass="NSMutableArray" id="axO-qw-8hW"/>
+                <outletCollection property="days" destination="Qgb-Xn-L1F" collectionClass="NSMutableArray" id="MbX-b9-Cqr"/>
+                <outletCollection property="days" destination="1AX-db-m8b" collectionClass="NSMutableArray" id="RaY-uB-CDp"/>
+                <outletCollection property="days" destination="1SJ-sa-ZnN" collectionClass="NSMutableArray" id="xEi-CA-vtW"/>
+                <outletCollection property="days" destination="npi-9c-lPI" collectionClass="NSMutableArray" id="RoB-aa-0rz"/>
+                <outletCollection property="days" destination="MvU-iP-qvG" collectionClass="NSMutableArray" id="V06-Zz-ORD"/>
+                <outletCollection property="days" destination="9bF-wA-dyV" collectionClass="NSMutableArray" id="0xL-Oi-IF7"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="112"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="g0A-i4-th3">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="112"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" distribution="fillEqually" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="dq6-27-biL">
+                            <rect key="frame" x="0.0" y="53" width="414" height="44"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rxe-tb-Uqg">
+                                    <rect key="frame" x="0.0" y="0.0" width="49" height="44"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="월">
+                                        <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qgb-Xn-L1F">
+                                    <rect key="frame" x="61" y="0.0" width="48.5" height="44"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="월">
+                                        <color key="titleColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1AX-db-m8b">
+                                    <rect key="frame" x="121.5" y="0.0" width="49" height="44"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="월">
+                                        <color key="titleColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1SJ-sa-ZnN">
+                                    <rect key="frame" x="182.5" y="0.0" width="49" height="44"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="월">
+                                        <color key="titleColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="npi-9c-lPI">
+                                    <rect key="frame" x="243.5" y="0.0" width="49" height="44"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="월">
+                                        <color key="titleColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MvU-iP-qvG">
+                                    <rect key="frame" x="304.5" y="0.0" width="48.5" height="44"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="월">
+                                        <color key="titleColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9bF-wA-dyV">
+                                    <rect key="frame" x="365" y="0.0" width="49" height="44"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="월">
+                                        <color key="titleColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                </button>
+                            </subviews>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="SHE-ut-Wg6"/>
+                            </constraints>
+                        </stackView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jVI-11-i6j">
+                            <rect key="frame" x="0.0" y="21" width="180" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="jdd-OE-Evi"/>
+                                <constraint firstAttribute="width" constant="180" id="vhg-BQ-Qw5"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gkb-YA-Eyz">
+                            <rect key="frame" x="0.0" y="115" width="414" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="jV0-OQ-PHN"/>
+                            </constraints>
+                            <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <state key="normal" title="법정 공휴일">
+                                <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zOe-mK-jHD">
+                            <rect key="frame" x="234" y="21" width="180" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="180" id="qZ1-8r-z7V"/>
+                                <constraint firstAttribute="height" constant="20" id="wdl-rR-FYt"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" systemColor="systemGrayColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="jVI-11-i6j" firstAttribute="leading" secondItem="g0A-i4-th3" secondAttribute="leading" id="8wH-oA-aPJ"/>
+                        <constraint firstItem="gkb-YA-Eyz" firstAttribute="top" secondItem="dq6-27-biL" secondAttribute="bottom" constant="18" id="FmD-Wk-gqv"/>
+                        <constraint firstAttribute="trailing" secondItem="gkb-YA-Eyz" secondAttribute="trailing" id="MCP-iy-6RN"/>
+                        <constraint firstItem="dq6-27-biL" firstAttribute="top" secondItem="zOe-mK-jHD" secondAttribute="bottom" constant="12" id="Q3D-8v-sD9"/>
+                        <constraint firstAttribute="trailing" secondItem="dq6-27-biL" secondAttribute="trailing" id="Sj5-MJ-xId"/>
+                        <constraint firstItem="dq6-27-biL" firstAttribute="top" secondItem="jVI-11-i6j" secondAttribute="bottom" constant="12" id="ffh-Tu-D3B"/>
+                        <constraint firstItem="gkb-YA-Eyz" firstAttribute="leading" secondItem="g0A-i4-th3" secondAttribute="leading" id="mt5-ue-lxG"/>
+                        <constraint firstAttribute="bottom" secondItem="gkb-YA-Eyz" secondAttribute="bottom" id="pY2-Ax-S2k"/>
+                        <constraint firstItem="dq6-27-biL" firstAttribute="leading" secondItem="g0A-i4-th3" secondAttribute="leading" id="qEZ-02-mZa"/>
+                        <constraint firstAttribute="trailing" secondItem="zOe-mK-jHD" secondAttribute="trailing" id="yMy-C5-iOk"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="subviews">
+                            <exclude reference="gkb-YA-Eyz"/>
+                        </mask>
+                    </variation>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="g0A-i4-th3" secondAttribute="bottom" id="5jo-zz-2WC"/>
+                <constraint firstItem="g0A-i4-th3" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ULw-cp-qhf"/>
+                <constraint firstAttribute="trailing" secondItem="g0A-i4-th3" secondAttribute="trailing" id="gcO-vn-74z"/>
+                <constraint firstItem="g0A-i4-th3" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="mQz-Aj-xae"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="131.8840579710145" y="361.60714285714283"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGrayColor">
+            <color red="0.55686274509803924" green="0.55686274509803924" blue="0.57647058823529407" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

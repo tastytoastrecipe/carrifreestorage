@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HtmlContentVc" customModule="CarrifreeStorage" customModuleProvider="target">
+            <connections>
+                <outlet property="board" destination="24R-JW-NBw" id="Rcr-3V-CDy"/>
+                <outlet property="navi" destination="66F-G9-Txh" id="0uv-Xs-uJh"/>
+                <outlet property="view" destination="d9V-Nb-Itu" id="nge-VL-7sb"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="d9V-Nb-Itu">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="24R-JW-NBw">
+                    <rect key="frame" x="0.0" y="64" width="414" height="832"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </view>
+                <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="66F-G9-Txh">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="xXk-P2-qnm"/>
+                    </constraints>
+                    <items>
+                        <navigationItem title="Title" id="iJ6-eu-EML"/>
+                    </items>
+                </navigationBar>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="yO5-vU-kAh"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="66F-G9-Txh" firstAttribute="top" secondItem="d9V-Nb-Itu" secondAttribute="top" id="24N-iL-fDi"/>
+                <constraint firstItem="24R-JW-NBw" firstAttribute="leading" secondItem="yO5-vU-kAh" secondAttribute="leading" id="2Ye-jC-dz9"/>
+                <constraint firstItem="66F-G9-Txh" firstAttribute="leading" secondItem="d9V-Nb-Itu" secondAttribute="leading" id="3gY-Nr-Z1b"/>
+                <constraint firstItem="yO5-vU-kAh" firstAttribute="trailing" secondItem="24R-JW-NBw" secondAttribute="trailing" id="DlF-eV-D0C"/>
+                <constraint firstItem="24R-JW-NBw" firstAttribute="top" secondItem="66F-G9-Txh" secondAttribute="bottom" constant="20" id="LfV-uG-aIZ"/>
+                <constraint firstAttribute="bottom" secondItem="24R-JW-NBw" secondAttribute="bottom" id="Xl4-nX-W7w"/>
+                <constraint firstAttribute="trailing" secondItem="66F-G9-Txh" secondAttribute="trailing" id="vDm-Hl-5nQ"/>
+            </constraints>
+            <point key="canvasLocation" x="62" y="32"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

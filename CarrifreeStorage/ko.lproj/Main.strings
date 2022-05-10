@@ -1,0 +1,303 @@
+
+/* Class = "UILabel"; text = "Apple로 가입"; ObjectID = "0CO-Gk-Gg1"; */
+"0CO-Gk-Gg1.text" = "Apple로 가입";
+
+/* Class = "UILabel"; text = "User ID"; ObjectID = "0ct-qp-oiH"; */
+"0ct-qp-oiH.text" = "User ID";
+
+/* Class = "UIButton"; normalTitle = "약관 보기"; ObjectID = "0yX-tu-Knl"; */
+"0yX-tu-Knl.normalTitle" = "약관 보기";
+
+/* Class = "UITabBarItem"; title = "쉬는날"; ObjectID = "10t-2u-HWh"; */
+"10t-2u-HWh.title" = "쉬는날";
+
+/* Class = "UILabel"; text = "주소"; ObjectID = "1kJ-he-wmM"; */
+"1kJ-he-wmM.text" = "주소";
+
+/* Class = "UIButton"; normalTitle = "로그아웃 "; ObjectID = "3fS-BQ-DY4"; */
+"3fS-BQ-DY4.normalTitle" = "로그아웃 ";
+
+/* Class = "UIButton"; normalTitle = "정보 동의(필수)"; ObjectID = "42J-Ye-FXn"; */
+"42J-Ye-FXn.normalTitle" = "정보 동의(필수)";
+
+/* Class = "UILabel"; text = "Facebook으로 가입"; ObjectID = "6Wy-ju-AXx"; */
+"6Wy-ju-AXx.text" = "Facebook으로 가입";
+
+/* Class = "UIButton"; normalTitle = "로그인"; ObjectID = "6dJ-Cs-6Vq"; */
+"6dJ-Cs-6Vq.normalTitle" = "로그인";
+
+/* Class = "UILabel"; text = "Copyright © PLATTICS All Rights Reserved."; ObjectID = "6f1-fi-xAQ"; */
+"6f1-fi-xAQ.text" = "Copyright © PLATTICS All Rights Reserved.";
+
+/* Class = "UIButton"; normalTitle = "가입"; ObjectID = "7tO-uz-MEB"; */
+"7tO-uz-MEB.normalTitle" = "가입";
+
+/* Class = "UIButton"; normalTitle = "약관 보기"; ObjectID = "9Qz-Y6-2WN"; */
+"9Qz-Y6-2WN.normalTitle" = "약관 보기";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "B8O-0R-RxI"; */
+"B8O-0R-RxI.title" = "Item";
+
+/* Class = "UILabel"; text = "윤통현"; ObjectID = "CT4-u5-dw5"; */
+"CT4-u5-dw5.text" = "윤통현";
+
+/* Class = "UILabel"; text = "캐리프리의 모든 알림  ON/OFF"; ObjectID = "CaM-g4-b0H"; */
+"CaM-g4-b0H.text" = "캐리프리의 모든 알림  ON/OFF";
+
+/* Class = "UILabel"; text = "네이버로 가입"; ObjectID = "CyW-cf-iQC"; */
+"CyW-cf-iQC.text" = "네이버로 가입";
+
+/* Class = "UILabel"; text = "비밀 번호 확인"; ObjectID = "ETt-PO-tO3"; */
+"ETt-PO-tO3.text" = "비밀 번호 확인";
+
+/* Class = "UIButton"; normalTitle = "회원 탈퇴"; ObjectID = "Ecb-ce-kGD"; */
+"Ecb-ce-kGD.normalTitle" = "회원 탈퇴";
+
+/* Class = "UILabel"; text = "SNS 계정으로 로그인"; ObjectID = "FbS-V0-rHj"; */
+"FbS-V0-rHj.text" = "SNS 계정으로 로그인";
+
+/* Class = "UIButton"; normalTitle = "  휴대폰 인증 "; ObjectID = "GFg-Zt-UGg"; */
+"GFg-Zt-UGg.normalTitle" = "  휴대폰 인증 ";
+
+/* Class = "UIButton"; normalTitle = "약관 보기"; ObjectID = "GGe-a9-otF"; */
+"GGe-a9-otF.normalTitle" = "약관 보기";
+
+/* Class = "UITabBarItem"; title = "내정보"; ObjectID = "GWV-0X-AQ2"; */
+"GWV-0X-AQ2.title" = "내정보";
+
+/* Class = "UIButton"; normalTitle = "약관 동의(필수)"; ObjectID = "Ghk-3a-Dcc"; */
+"Ghk-3a-Dcc.normalTitle" = "약관 동의(필수)";
+
+/* Class = "UILabel"; text = "E-Mail"; ObjectID = "Ia8-6e-H4c"; */
+"Ia8-6e-H4c.text" = "E-Mail";
+
+/* Class = "UILabel"; text = "네이버로 로그인"; ObjectID = "Jeu-3m-F76"; */
+"Jeu-3m-F76.text" = "네이버로 로그인";
+
+/* Class = "UILabel"; text = "이메일로 발송된 인증 번호"; ObjectID = "JqV-xK-Ynx"; */
+"JqV-xK-Ynx.text" = "이메일로 발송된 인증 번호";
+
+/* Class = "UILabel"; text = "대표"; ObjectID = "KMm-k7-v6p"; */
+"KMm-k7-v6p.text" = "대표";
+
+/* Class = "UIButton"; normalTitle = "인증하기"; ObjectID = "KQv-8L-ZKm"; */
+"KQv-8L-ZKm.normalTitle" = "인증하기";
+
+/* Class = "UILabel"; text = "Apple로 로그인"; ObjectID = "Kdc-7h-olv"; */
+"Kdc-7h-olv.text" = "Apple로 로그인";
+
+/* Class = "UIButton"; normalTitle = "비밀번호 변경"; ObjectID = "L2Z-We-wT2"; */
+"L2Z-We-wT2.normalTitle" = "비밀번호 변경";
+
+/* Class = "UILabel"; text = "비밀 번호(필수: 6~12자리 영문, 숫자, !@#$%^&*) "; ObjectID = "LaH-US-djf"; */
+"LaH-US-djf.text" = "비밀 번호(필수: 6~12자리 영문, 숫자, !@#$%^&*) ";
+
+/* Class = "UILabel"; text = "회원가입시 작성한 Email"; ObjectID = "LtA-bV-s8t"; */
+"LtA-bV-s8t.text" = "회원가입시 작성한 Email";
+
+/* Class = "UILabel"; text = "비밀번호"; ObjectID = "Mh0-aV-9oM"; */
+"Mh0-aV-9oM.text" = "비밀번호";
+
+/* Class = "UIButton"; normalTitle = "Email 인증"; ObjectID = "MxV-JH-i4L"; */
+"MxV-JH-i4L.normalTitle" = "Email 인증";
+
+/* Class = "UILabel"; text = "대표번호"; ObjectID = "NrH-yp-mG3"; */
+"NrH-yp-mG3.text" = "대표번호";
+
+/* Class = "UILabel"; text = "269-86-01878"; ObjectID = "OQt-lR-eDX"; */
+"OQt-lR-eDX.text" = "269-86-01878";
+
+/* Class = "UIButton"; normalTitle = "인증"; ObjectID = "OW3-5F-5d9"; */
+"OW3-5F-5d9.normalTitle" = "인증";
+
+/* Class = "UIButton"; normalTitle = "개인정보 처리방침"; ObjectID = "P30-Bk-7cG"; */
+"P30-Bk-7cG.normalTitle" = "개인정보 처리방침";
+
+/* Class = "UILabel"; text = "이름"; ObjectID = "PPf-vh-0nq"; */
+"PPf-vh-0nq.text" = "이름";
+
+/* Class = "UIButton"; normalTitle = "비밀번호 변경"; ObjectID = "PwP-Fm-92y"; */
+"PwP-Fm-92y.normalTitle" = "비밀번호 변경";
+
+/* Class = "UIButton"; normalTitle = "중복 확인"; ObjectID = "QCW-ws-C4b"; */
+"QCW-ws-C4b.normalTitle" = "중복 확인";
+
+/* Class = "UIButton"; normalTitle = "약관 보기"; ObjectID = "RNo-vs-win"; */
+"RNo-vs-win.normalTitle" = "약관 보기";
+
+/* Class = "UIButton"; normalTitle = "발송"; ObjectID = "RxG-Ru-Bib"; */
+"RxG-Ru-Bib.normalTitle" = "발송";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "S18-az-jqf"; */
+"S18-az-jqf.text" = "id";
+
+/* Class = "UIButton"; normalTitle = "내 정보 변경 "; ObjectID = "SlX-6n-0SS"; */
+"SlX-6n-0SS.normalTitle" = "내 정보 변경 ";
+
+/* Class = "UILabel"; text = "02-3459-3127"; ObjectID = "Tkc-k1-yIo"; */
+"Tkc-k1-yIo.text" = "02-3459-3127";
+
+/* Class = "UIButton"; normalTitle = "발송"; ObjectID = "U3O-mV-TpR"; */
+"U3O-mV-TpR.normalTitle" = "발송";
+
+/* Class = "UILabel"; text = "회원가입"; ObjectID = "UOL-Wa-zfI"; */
+"UOL-Wa-zfI.text" = "회원가입";
+
+/* Class = "UIBarButtonItem"; title = "아이디/비밀번호 찾기"; ObjectID = "Vga-nH-okB"; */
+"Vga-nH-okB.title" = "아이디/비밀번호 찾기";
+
+/* Class = "UILabel"; text = "카카오톡으로 로그인"; ObjectID = "X46-w7-L2o"; */
+"X46-w7-L2o.text" = "카카오톡으로 로그인";
+
+/* Class = "UIButton"; normalTitle = "약관 동의(필수)"; ObjectID = "YXa-f5-Ppv"; */
+"YXa-f5-Ppv.normalTitle" = "약관 동의(필수)";
+
+/* Class = "UIButton"; normalTitle = "저장"; ObjectID = "YYh-P5-TFh"; */
+"YYh-P5-TFh.normalTitle" = "저장";
+
+/* Class = "UILabel"; text = "ID로 가입"; ObjectID = "Ymv-oT-jB2"; */
+"Ymv-oT-jB2.text" = "ID로 가입";
+
+/* Class = "UILabel"; text = "비밀번호 확인"; ObjectID = "YwY-e0-l2x"; */
+"YwY-e0-l2x.text" = "비밀번호 확인";
+
+/* Class = "UIButton"; normalTitle = "약관 보기"; ObjectID = "Z61-1b-s9i"; */
+"Z61-1b-s9i.normalTitle" = "약관 보기";
+
+/* Class = "UILabel"; text = "(주)플래틱스"; ObjectID = "aDo-Bl-2LV"; */
+"aDo-Bl-2LV.text" = "(주)플래틱스";
+
+/* Class = "UIButton"; normalTitle = "중복 확인"; ObjectID = "aex-GJ-bJk"; */
+"aex-GJ-bJk.normalTitle" = "중복 확인";
+
+/* Class = "UILabel"; text = "비밀 번호(필수: 6~12자리 영문, 숫자, !@#$%^&*) "; ObjectID = "b0m-rx-pF6"; */
+"b0m-rx-pF6.text" = "비밀 번호(필수: 6~12자리 영문, 숫자, !@#$%^&*) ";
+
+/* Class = "UILabel"; text = "회원 이름"; ObjectID = "cSr-LE-cXS"; */
+"cSr-LE-cXS.text" = "회원 이름";
+
+/* Class = "UIButton"; normalTitle = "Email 인증"; ObjectID = "ct9-3O-4Pa"; */
+"ct9-3O-4Pa.normalTitle" = "Email 인증";
+
+/* Class = "UILabel"; text = "회원 ID"; ObjectID = "d9b-kk-GOx"; */
+"d9b-kk-GOx.text" = "회원 ID";
+
+/* Class = "UILabel"; text = "회원가입시 작성한 Email"; ObjectID = "djK-Jm-bMc"; */
+"djK-Jm-bMc.text" = "회원가입시 작성한 Email";
+
+/* Class = "UITabBarItem"; title = "사진"; ObjectID = "e1T-re-tkR"; */
+"e1T-re-tkR.title" = "사진";
+
+/* Class = "UILabel"; text = "약관 동의(필수)"; ObjectID = "ef9-hF-Yzl"; */
+"ef9-hF-Yzl.text" = "약관 동의(필수)";
+
+/* Class = "UILabel"; text = "E-Mail"; ObjectID = "f0z-2l-qBe"; */
+"f0z-2l-qBe.text" = "E-Mail";
+
+/* Class = "UIButton"; normalTitle = "저장"; ObjectID = "fPc-0a-ple"; */
+"fPc-0a-ple.normalTitle" = "저장";
+
+/* Class = "UILabel"; text = "모든 알림"; ObjectID = "fd8-Qs-B7O"; */
+"fd8-Qs-B7O.text" = "모든 알림";
+
+/* Class = "UILabel"; text = "회원 아이디(필수, 5자 이상)"; ObjectID = "fg6-l1-zWq"; */
+"fg6-l1-zWq.text" = "회원 아이디(필수, 5자 이상)";
+
+/* Class = "UILabel"; text = "E-Mail"; ObjectID = "g4d-BV-9Dg"; */
+"g4d-BV-9Dg.text" = "E-Mail";
+
+/* Class = "UILabel"; text = "새 비밀번호(6~12자리 영문, 숫자, !@#$%^&*) "; ObjectID = "gSb-c0-SlL"; */
+"gSb-c0-SlL.text" = "새 비밀번호(6~12자리 영문, 숫자, !@#$%^&*) ";
+
+/* Class = "UILabel"; text = "회원 이름"; ObjectID = "gw4-xG-YtW"; */
+"gw4-xG-YtW.text" = "회원 이름";
+
+/* Class = "UILabel"; text = "Facebook으로 로그인"; ObjectID = "gwi-SX-XTx"; */
+"gwi-SX-XTx.text" = "Facebook으로 로그인";
+
+/* Class = "UIButton"; normalTitle = "인증"; ObjectID = "h2e-Dj-IUe"; */
+"h2e-Dj-IUe.normalTitle" = "인증";
+
+/* Class = "UILabel"; text = "이메일로 발송된 인증 번호"; ObjectID = "huv-Pm-sed"; */
+"huv-Pm-sed.text" = "이메일로 발송된 인증 번호";
+
+/* Class = "UILabel"; text = "비밀 번호 확인"; ObjectID = "hzo-xj-12b"; */
+"hzo-xj-12b.text" = "비밀 번호 확인";
+
+/* Class = "UIButton"; normalTitle = "정보 동의(필수)"; ObjectID = "i2j-3C-lh7"; */
+"i2j-3C-lh7.normalTitle" = "정보 동의(필수)";
+
+/* Class = "UIButton"; normalTitle = "  휴대폰 인증 "; ObjectID = "iCK-84-DhK"; */
+"iCK-84-DhK.normalTitle" = "  휴대폰 인증 ";
+
+/* Class = "UIButton"; normalTitle = "가입"; ObjectID = "iMr-U8-xgR"; */
+"iMr-U8-xgR.normalTitle" = "가입";
+
+/* Class = "UILabel"; text = "로그인"; ObjectID = "ine-Xm-AGG"; */
+"ine-Xm-AGG.text" = "로그인";
+
+/* Class = "UILabel"; text = "비밀 번호 확인"; ObjectID = "jfx-Oi-zwi"; */
+"jfx-Oi-zwi.text" = "비밀 번호 확인";
+
+/* Class = "UILabel"; text = "아이디"; ObjectID = "mWu-L2-thE"; */
+"mWu-L2-thE.text" = "아이디";
+
+/* Class = "UILabel"; text = "서울틀별시 강서구 하늘길 70, 항공지원센터 2층 KACoon(창업지원센터) Office-G 주)플래틱스"; ObjectID = "o3B-lg-Odw"; */
+"o3B-lg-Odw.text" = "서울틀별시 강서구 하늘길 70, 항공지원센터 2층 KACoon(창업지원센터) Office-G 주)플래틱스";
+
+/* Class = "UILabel"; text = "휴대폰 번호"; ObjectID = "ocd-ns-F0E"; */
+"ocd-ns-F0E.text" = "휴대폰 번호";
+
+/* Class = "UIButton"; normalTitle = "저장"; ObjectID = "rDE-6X-iaq"; */
+"rDE-6X-iaq.normalTitle" = "저장";
+
+/* Class = "UIButton"; normalTitle = "인증하기"; ObjectID = "sBt-IZ-Kdn"; */
+"sBt-IZ-Kdn.normalTitle" = "인증하기";
+
+/* Class = "UILabel"; text = "변경할 비밀 번호 (필수: 6~12자리 영문, 숫자, !@#$%^&*) "; ObjectID = "sg5-Zq-bbA"; */
+"sg5-Zq-bbA.text" = "변경할 비밀 번호 (필수: 6~12자리 영문, 숫자, !@#$%^&*) ";
+
+/* Class = "UIButton"; normalTitle = "마케팅 동의(필수)"; ObjectID = "sgM-CH-IUi"; */
+"sgM-CH-IUi.normalTitle" = "마케팅 동의(필수)";
+
+/* Class = "UILabel"; text = "사업자명"; ObjectID = "tI7-C1-OCj"; */
+"tI7-C1-OCj.text" = "사업자명";
+
+/* Class = "UILabel"; text = "회원 아이디(필수, 5자 이상)"; ObjectID = "tyr-IH-zbM"; */
+"tyr-IH-zbM.text" = "회원 아이디(필수, 5자 이상)";
+
+/* Class = "UILabel"; text = "야간 알림  ON/OFF"; ObjectID = "vLc-uR-COk"; */
+"vLc-uR-COk.text" = "야간 알림  ON/OFF";
+
+/* Class = "UIButton"; normalTitle = "마케팅 동의(필수)"; ObjectID = "vf9-bJ-QZf"; */
+"vf9-bJ-QZf.normalTitle" = "마케팅 동의(필수)";
+
+/* Class = "UILabel"; text = "야간 알림 (22시 ~ 07시)"; ObjectID = "vfv-cZ-wAx"; */
+"vfv-cZ-wAx.text" = "야간 알림 (22시 ~ 07시)";
+
+/* Class = "UIButton"; normalTitle = "약관 보기"; ObjectID = "vvt-En-4TV"; */
+"vvt-En-4TV.normalTitle" = "약관 보기";
+
+/* Class = "UILabel"; text = "카카오톡으로 가입"; ObjectID = "w7Y-nb-Cfe"; */
+"w7Y-nb-Cfe.text" = "카카오톡으로 가입";
+
+/* Class = "UILabel"; text = "약관 동의(필수)"; ObjectID = "wIb-YU-vub"; */
+"wIb-YU-vub.text" = "약관 동의(필수)";
+
+/* Class = "UIButton"; normalTitle = "약관 보기"; ObjectID = "wzi-tC-ugi"; */
+"wzi-tC-ugi.normalTitle" = "약관 보기";
+
+/* Class = "UILabel"; text = "사업자 등록 번호"; ObjectID = "x1U-JN-gPj"; */
+"x1U-JN-gPj.text" = "사업자 등록 번호";
+
+/* Class = "UITabBarItem"; title = "가격"; ObjectID = "x4w-95-ebM"; */
+"x4w-95-ebM.title" = "가격";
+
+/* Class = "UILabel"; text = "carrifree@carrifree.com"; ObjectID = "xNW-H9-IXB"; */
+"xNW-H9-IXB.text" = "carrifree@carrifree.com";
+
+/* Class = "UILabel"; text = "문의/제휴"; ObjectID = "zeN-tc-EPY"; */
+"zeN-tc-EPY.text" = "문의/제휴";
+
+/* Class = "UILabel"; text = "권회정 님"; ObjectID = "zhJ-Cs-82m"; */
+"zhJ-Cs-82m.text" = "권회정 님";
